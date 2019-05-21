@@ -26,11 +26,16 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+It makes writing dry code easier and interacts with a virtual dom for a faster UI experience. 
+
 - [ ] What does it mean to _think_ in react?
 
-- [ ] Describe state.
+Compartmentalizing pieces of the problem to be solved
 
+- [ ] Describe state.
+  -Data that chges on screen
 - [ ] Describe props.
+  -Static data 
 
 ## Project Set Up
 
